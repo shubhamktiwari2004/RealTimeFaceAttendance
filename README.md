@@ -35,7 +35,7 @@ Change the ServiceAccountKey.json file and the firebase configuration in accordi
 
 
 # User Management
-For management of user change the create a node in the realtimedatabase of firebase and then store user credentials and then according to that modify the code for perfectly working the user session management.
+For management of user , create a node in the realtimedatabase of firebase and then store user credentials and then according to that modify the code for perfectly working the user session management.
 
 
 # Contributing
