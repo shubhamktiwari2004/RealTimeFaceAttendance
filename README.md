@@ -30,12 +30,13 @@ dlib
 Firebase  
 Flask  
 
-# Contributing
-Contributions are welcome! Please feel free to fork the repository, make pull requests, and suggest improvements.
-
 # Firebase Configs
 Change the ServiceAccountKey.json file and the firebase configuration in according to your firebase account.
 
 
 # User Management
 For management of user change the create a node in the realtimedatabase of firebase and then store user credentials and then according to that modify the code for perfectly working the user session management.
+
+
+# Contributing
+Contributions are welcome! Please feel free to fork the repository, make pull requests, and suggest improvements.
