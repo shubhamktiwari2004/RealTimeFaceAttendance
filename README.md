@@ -22,9 +22,6 @@ OpenCV and dlib libraries.
   -Attendance records are automatically updated in real-time.  
 4)Download Attendance:  
   -Navigate to the /download_csv route to download attendance records in CSV format.  
-  -Attendance records are automatically updated in real-time.  
-5)Download Attendance:  
-  -Navigate to the /download_csv route to download attendance records in CSV format.  
 
 
 # Acknowledgements
