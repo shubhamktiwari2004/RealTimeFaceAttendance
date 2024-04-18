@@ -4,7 +4,7 @@
 # Features
 1)Real-time face recognition using the
 OpenCV and dlib libraries.
-2)Firebase integration for storage and real-time database.
+\n2)Firebase integration for storage and real-time database.
 3)User authentication and session management.
 4)Automatic attendance marking.
 5)Downloadable attendance records in CSV format.
