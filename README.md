@@ -11,27 +11,27 @@ OpenCV and dlib libraries.
 
 
 # Usage
-1)Register/Login:
-  -Navigate to the /register route to create a new account.
-  -Navigate to the /login1 route to log in to an existing account.
-2)Upload Images:
-  -Navigate to the /camera route to upload images for face recognition.
-  -Ensure proper lighting and alignment for accurate recognition.
-3)Attendance Tracking:
-  -Navigate to the /FR_templates route to view recognized faces and mark attendance.
-  -Attendance records are automatically updated in real-time.
-4)Download Attendance:
-  -Navigate to the /download_csv route to download attendance records in CSV format.
-  -Attendance records are automatically updated in real-time.
-5)Download Attendance:
-  -Navigate to the /download_csv route to download attendance records in CSV format.
+1)Register/Login:  
+  -Navigate to the /register route to create a new account.  
+  -Navigate to the /login1 route to log in to an existing account.  
+2)Upload Images:  
+  -Navigate to the /camera route to upload images for face recognition.  
+  -Ensure proper lighting and alignment for accurate recognition.  
+3)Attendance Tracking:  
+  -Navigate to the /FR_templates route to view recognized faces and mark attendance.  
+  -Attendance records are automatically updated in real-time.  
+4)Download Attendance:  
+  -Navigate to the /download_csv route to download attendance records in CSV format.  
+  -Attendance records are automatically updated in real-time.  
+5)Download Attendance:  
+  -Navigate to the /download_csv route to download attendance records in CSV format.  
 
 
 # Acknowledgements
--OpenCV
--dlib
--Firebase
--Flask
+-OpenCV  
+-dlib  
+-Firebase  
+-Flask  
 
 # Contributing
 -Contributions are welcome! Please feel free to fork the repository, make pull requests, and suggest improvements.
