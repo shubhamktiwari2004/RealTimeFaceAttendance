@@ -1,15 +1,16 @@
-#RealTimeFaceAttendance
+# RealTimeFaceAttendance
 -RealTimeFaceAttendance is a Flask web application that performs real-time face recognition for attendance tracking using Firebase for storage and authentication.
 
-#Features
-1)Real-time face recognition using the OpenCV and dlib libraries.
+# Features
+1)Real-time face recognition using the
+OpenCV and dlib libraries.
 2)Firebase integration for storage and real-time database.
 3)User authentication and session management.
 4)Automatic attendance marking.
 5)Downloadable attendance records in CSV format.
 
 
-#Usage
+# Usage
 1)Register/Login:
   -Navigate to the /register route to create a new account.
   -Navigate to the /login1 route to log in to an existing account.
@@ -26,14 +27,18 @@
   -Navigate to the /download_csv route to download attendance records in CSV format.
 
 
-#Acknowledgements
+# Acknowledgements
 -OpenCV
 -dlib
 -Firebase
 -Flask
 
-#Contributing
+# Contributing
 -Contributions are welcome! Please feel free to fork the repository, make pull requests, and suggest improvements.
 
-#Firebase Configs
+# Firebase Configs
 -Change the ServiceAccountKey.json file and the firebase configuration in according to your firebase account.
+
+
+# User Management
+-For management of user change the create a node in the realtimedatabase of firebase and then store user credentials and then according to that modify the code for perfectly working the user session management.
