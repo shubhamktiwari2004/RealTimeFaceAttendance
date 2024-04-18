@@ -25,12 +25,15 @@ OpenCV and dlib libraries.
 
 
 # Acknowledgements
-OpenCV  
-dlib  
-Firebase  
-Flask  
+•OpenCV  
+•dlib  
+•Firebase  
+•Flask  
 
 # Firebase Configs
+•Realtime Database  
+•Storage  
+•Authentication  
 Change the ServiceAccountKey.json file and the firebase configuration in according to your firebase account.
 
 
